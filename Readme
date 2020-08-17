@@ -1,0 +1,6 @@
+Follow the steps below
+
+1). Clone the repository
+2). After installing docker and docker docker compose
+
+cmd:  docker load < nginx.tar.gz
